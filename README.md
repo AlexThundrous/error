@@ -1,3 +1,4 @@
 # error
 Weirdest of 'em 
-del.dog/weirdo
+
+https://www.del.dog/weirdo
