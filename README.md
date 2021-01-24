@@ -1,4 +1,5 @@
 # error
 Weirdest of 'em 
 
-https://www.del.dog/weirdo
+
+https://del.dog/weirdo.txt
